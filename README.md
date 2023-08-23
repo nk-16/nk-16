@@ -14,6 +14,20 @@ I am quite passionate about core mechanical engineering. Exploring this diverse 
 
 I learned more about robotics design and how to connect it with controls during my research internship at Stoch Lab, RBCCPS, IISc. I worked on the design optimization of a quadrupled-legged robot having a 20 Kg payload capacity for military purposes. 
 
+## Skills
+
+- 🔩 Mechanical Design and Analysis
+- 🛠️ CAD/CAM and 3D Modeling
+- 🔬 Materials Science and Engineering
+- 🤖 Robotics and Automation
+- 💻 Programming (C++, Python)
+
+## Contact Me
+
+📧 Email: [naman.khetan.mec21@itbhu.ac.in](mailto:naman.khetan.mec21@iitbhu.ac.in)
+🔗 LinkedIn: [linkedin.com/in/naman-khetan/](https://www.linkedin.com/in/naman-khetan/)
+📞 Phone: [9140492382](tel:9140492382)
+
 
 
 
