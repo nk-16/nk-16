@@ -31,7 +31,7 @@ With my experience as a DAAD WISE intern, I identified a key problem I want to s
 <p align="center"><ins>TorsioSquid : A squid insppired underwater bot </ins></p>
 
 <div align="center">
-  <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-26%20014253.png" alt="Image 1" width="500"/>
+  <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-26%20014253.png" alt="Image 1" width="700"/>
 </div>
 
  [![Watch the video](https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Morph%20N%20Actuate.png)](https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/raw/main/SImulation%20video.mp4)
