@@ -32,7 +32,7 @@ With my experience as a DAAD WISE intern, I identified a key problem I want to s
 
 <div align="center">
   <img src="https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Screenshot%202024-08-26%20014253.png" alt="Image 1" width="500"/>
-  [![Watch the video](https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Morph%20N%20Actuate.png)](https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/raw/main/SImulation%20video.mp4)
+  [![Watch the video](<img src = "https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/blob/main/Morph%20N%20Actuate.png" alt="Image 1" width="500"/>)](https://github.com/nk-16/TorsioSquid-A-squid-inspired-underwater-bot/raw/main/SImulation%20video.mp4)
 
 </div>
 
