@@ -31,10 +31,10 @@ With my experience as a DAAD WISE intern, I identified a key problem I want to s
 <p align="center"><ins>Fabrication, Modelling and Application of HASEL actuators </ins></p>
 
 <div align="center">
-  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021727.png" alt="Image 1" width="200"/>
-  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 2" width="500"/>
-  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 3" width="200"/>
-  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/QN4A9881.JPG" alt="Image 4" width="500"/>
+  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Screenshot%202024-07-14%20021727.png" alt="Image 1" width="250"/>
+  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/WhatsApp%20Image%202024-06-04%20at%207.34.38%20PM.jpeg" alt="Image 2" width="450"/>
+  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/Diagrammatic-cross-section-of-insect-flight-muscles-I-Thorax-mechanisms-of-direct.png" alt="Image 3" width="250"/>
+  <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/QN4A9881.JPG" alt="Image 4" width="450"/>
   <img src="https://github.com/nk-16/Fabrication-Modelling-and-Application-of-HASEL-Actuators/blob/main/EuroEAP%202024.jpg" alt="Image 4" width="700"/>
 </div>
 
