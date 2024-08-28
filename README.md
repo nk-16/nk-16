@@ -6,7 +6,7 @@ I am Naman Khetan
 
 🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
 
-I am a 3rd-year Mechanical Engineering student pursuing BTech in IIT BHU. I hailed from Raebareli, Uttar Pradesh. My research interests lie in soft robotics, smart materials, mechatronics, design optimization, and legged robotics. 
+I am a senior undergraduate Mechanical Engineering student pursuing a BTech in IIT BHU. I hailed from Raebareli, Uttar Pradesh. My research interests lie in soft robotics, smart materials, mechatronics, design optimization, and legged robotics. 
 
 ## My journey
 
