@@ -69,7 +69,7 @@ Working on optimisation of the design parameters of a soft pneumatic actuator us
   <img src="https://github.com/nk-16/Soft-robotic-fish/assets/128499808/76c3be9d-611a-48a3-a22d-4f041ac3743e" alt="Image 2" width="500"/>
 </div>
 
-Worked on an ideation competition named Biognosis on biomimicry by Shaastra, IIT Madras, where I presented my idea of soft robotic fish. I came under the top 10 individuals nationwide in this. In this, I worked on biomimicry to develop a unique solution whose target application will be SDG goal 14 - Life Below Water. My idea is based on how aquatic organisms tackle this issue of water pollution. I took inspiration from aquatic organisms like Coral reefs and Tilapia fish. I studied smart materials like Shape Memory Alloys and dielectric elastomers and integrated them to design flow within soft robotic fish. For more details, see [Ideation Report](https://drive.google.com/file/d/1UOH0H7FEYinh-ZSIi4UHMhQf1Oq5_OXe/view?usp=sharing).
+Worked on an ideation competition named Biognosis on biomimicry by Shaastra, IIT Madras, where I presented my idea of soft robotic fish. I came under the top 10 individuals nationwide in this. In this, I worked on biomimicry to develop a unique solution whose target application will be SDG 14 - Life Below Water. My idea is based on how aquatic organisms tackle this issue of water pollution. I took inspiration from aquatic organisms like Coral reefs and Tilapia fish. I studied smart materials like Shape Memory Alloys and dielectric elastomers and integrated them to design flow within soft robotic fish. For more details, see [Ideation Report](https://drive.google.com/file/d/1UOH0H7FEYinh-ZSIi4UHMhQf1Oq5_OXe/view?usp=sharing).
 
 <br>
 
