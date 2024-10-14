@@ -84,7 +84,7 @@ This was an exploratory team project under [Dr. Pawan Sharma](https://www.iitbhu
 
 <br>
 
-<p align="center"><ins>Optimization of Shank link of quadrupled legged robot</ins></p>
+<p align="center"><ins>Optimization of Shank link of quadruped legged robot</ins></p>
 
 <div align="center">
   <img src="https://github.com/nk-16/nk-16/assets/128499808/751900cf-e2cd-4de4-8d89-42d1ffb03ab8" alt="Image 1" width="100"/>
